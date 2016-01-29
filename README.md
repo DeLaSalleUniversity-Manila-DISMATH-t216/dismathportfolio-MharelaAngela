@@ -45,5 +45,34 @@ I also learned that when p → q:
 * De Morgan's laws
 * Absorption laws
 * Negation laws
+
 At first, I had a hard time applying these laws in showing that two expressions are logically equivalent. Eventually, I understood it better by studying the proof of the laws.
+
+## WEEK 2:
+###### Predicate Logic
+* I learned that not only sentences, but also propositions have a subject and a predicate.
+* I understood the proper usage of quantifiers which are:
+  * Existential quantifier (∃x) which means "there exists"
+  * Universal quantifier (∀x) which means "for all"
+* A *counterexample* is a disqualification from a universal claim.
+* Real-life examples of existential and universal claims helped me to appreciate and understand the concept more.
+
+###### Rules of Inference
+This lesson was introduced to me by the defining some important terminologies.
+* argument
+* valid
+* fallacy
+* tautology
+
+I realized that it is important to understand the concept and patterns of a valid argument in order apply the rules of inference correctly.
+* Modus ponens
+* Modus tollens
+* Hypothetical syllogism
+* Disjunctive syllogism
+* Addition
+* Simplification
+* Conjunction
+* Resolution
+
+Both the Superman and the sunset problem helped me to understand logical equivalences and rules of inference. During class, I also realized that for some cases, it is better and easier to use truth tables for some problems.
 

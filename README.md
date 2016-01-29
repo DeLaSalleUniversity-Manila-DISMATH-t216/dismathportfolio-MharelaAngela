@@ -5,3 +5,17 @@ dismathportfolio-MharelaAngela created by Classroom for GitHub
 * I was introduced to **Discrete Mathematics**, a challenging yet interesting subject.
 * I have understood the difference of DISMATH from other branches of Mathematics.
 * Because of the logic problems about knights and knaves, I was able to have a sort of "preview" of what I will learn from this course.
+
+###### Basic terms in DISMATH
+* Proposition
+* Logical deduction
+* Axiom
+* Mathematical proof
+
+The examples given in class helped me to distinguish which statements are propositions and which are not.
+The kinds of TRUTH depending on its beholder were also enumerated.
+* Legal truth
+* Authoritative truth
+* Scientific truth
+* Probable truth 
+* Philosophical truth

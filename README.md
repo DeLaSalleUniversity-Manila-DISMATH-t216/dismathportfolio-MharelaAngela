@@ -19,3 +19,17 @@ The kinds of TRUTH depending on its beholder were also enumerated.
 * Scientific truth
 * Probable truth 
 * Philosophical truth
+
+###### Logical Connectives
+I was introduced to the concept of logical connectives, their symbols and their usage. The truth table for each logical connective were also shown and explained well. Again, the example propostions presented made it easier for me to understand the relationship of the input and output for each operator.
+* Negation (¬) used as *NOT*
+* Conjunction (˄) used as *AND*
+* Disjunction (˅) used as *OR*
+* Exclusive or (⊕) used as *XOR*
+* Conditional (→) used as *IF, THEN*
+* Biconditional (↔) used as *IF AND ONLY IF*
+
+I also learned that when p → q:
+* its converse q → p, and
+* its inverse ¬p → ¬q are not equal to p → q
+* its contrapositive ¬q → ¬p is equal to p → q

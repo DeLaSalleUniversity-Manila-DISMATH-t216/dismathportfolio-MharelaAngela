@@ -76,3 +76,11 @@ I realized that it is important to understand the concept and patterns of a vali
 
 Both the Superman and the sunset problem helped me to understand logical equivalences and rules of inference. During class, I also realized that for some cases, it is better and easier to use truth tables for some problems.
 
+## WEEK 3:
+###### Methods of Proof
+* Direct proof
+* Proof by contraposition (indirect)
+* Vacuous and Trivial proof
+* Proof by Contradiction
+
+So far, I find the vacuous and trivial proof easiest to understand. I still get slightly confused with some problems involving the other kinds of proofs.

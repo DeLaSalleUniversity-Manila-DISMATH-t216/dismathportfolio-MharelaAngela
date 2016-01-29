@@ -33,3 +33,17 @@ I also learned that when p → q:
 * its converse q → p, and
 * its inverse ¬p → ¬q are not equal to p → q
 * its contrapositive ¬q → ¬p is equal to p → q
+
+###### Logical Equivalences
+* Identity laws
+* Domination laws
+* Idempotent laws
+* Double negation law
+* Commutative laws
+* Associative laws
+* Distributive laws
+* De Morgan's laws
+* Absorption laws
+* Negation laws
+At first, I had a hard time applying these laws in showing that two expressions are logically equivalent. Eventually, I understood it better by studying the proof of the laws.
+

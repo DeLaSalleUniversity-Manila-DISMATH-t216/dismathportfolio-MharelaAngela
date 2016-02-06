@@ -79,8 +79,18 @@ Both the Superman and the sunset problem helped me to understand logical equival
 ## WEEK 3:
 ###### Methods of Proof
 * Direct proof
+ * Assume that p is true.
+ * Show that q is also true.
 * Proof by contraposition (indirect)
+ * Assume that ¬q is true.
+ * Show that ¬p is also true.
 * Vacuous and Trivial proof
+ * Vacuous proof: Show that p is false so p → q must be true.
+ * Trivial proof: Show that q is true so p → q must be true.
 * Proof by Contradiction
+ * Assume that ¬p is true. (p refers to the whole statement)
+ * Show that Step 1 ends up in a contradiction.
 
 So far, I find the vacuous and trivial proof easiest to understand. I still get slightly confused with some problems involving the other kinds of proofs.
+
+## WEEK 4:

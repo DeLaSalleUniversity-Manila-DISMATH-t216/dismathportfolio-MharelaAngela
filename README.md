@@ -94,3 +94,12 @@ Both the Superman and the sunset problem helped me to understand logical equival
 So far, I find the vacuous and trivial proof easiest to understand. I still get slightly confused with some problems involving the other kinds of proofs.
 
 ## WEEK 4:
+###### Methods of Proof
+* Proof of Equivalence
+ * Show that p → q and q → p are both true to prove a biconditional statement.
+* Counterexamples
+ * We must find a counterexample x in which P(x) will be false to prove that an existential claim is false.
+* Mathematical Induction
+ * Basis Step: Verify P(1) is true.
+ * Inductive Step: Show that P(x) → P(x+1) is true for all values of x.
+

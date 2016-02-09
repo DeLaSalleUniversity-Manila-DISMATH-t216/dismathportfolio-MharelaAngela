@@ -103,3 +103,5 @@ So far, I find the vacuous and trivial proof easiest to understand. I still get 
  * Basis Step: Verify P(1) is true.
  * Inductive Step: Show that P(x) → P(x+1) is true for all values of x.
 
+Mharela Angela A. Tan
+DISMATH EL

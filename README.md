@@ -103,5 +103,28 @@ So far, I find the vacuous and trivial proof easiest to understand. I still get 
  * Basis Step: Verify P(1) is true.
  * Inductive Step: Show that P(x) → P(x+1) is true for all values of x.
 
+## WEEK 5:
+This week, we learned about the following:
+* Recursive and Inductive definition
+* Recursive algorithm
+* Power series
+* Program Correctness
+* Hoare Triple
+
+## WEEK 6:
+* We were introduced to the lesson about sets and cardinality.
+* We reviewed the lesson about quantifiers and nested quantifiers in preparation for our first quiz.
+
+###### Functions
+* A *function* f from A to B is an assignment of exactly one element of B to each element of A.
+* Functions are also called *mappings/transformations*.
+* Domain - set of real numbers
+* Codomain - set of integers
+* Range - actually occurring values
+* Types of functions
+ * One-to-one function (injective)
+ * Onto function (subjective)
+ * One-to-one and onto (bijective)
+ 
 Mharela Angela A. Tan
 DISMATH EL

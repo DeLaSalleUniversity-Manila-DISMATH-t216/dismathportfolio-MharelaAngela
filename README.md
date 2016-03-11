@@ -125,6 +125,29 @@ This week, we learned about the following:
  * One-to-one function (injective)
  * Onto function (subjective)
  * One-to-one and onto (bijective)
- 
+* A one-to-many relation is *not a function*.
+
+## WEEK 7:
+
+###### Algorithms
+
+* An algorithm is a finite set of precise instructions for performing a computation or for solving a problem.
+* Different types of algorithms were discussed in class. These are: finding the maximum element, linear search and binary search.
+* Algorithms have a *precondition* and a *postcondition*. The precondition is the condition of the input while the postcondition is the final assertion and/or condition of the output.
+* A *pseudocode* is a high-level description of an algorithmic that uses structural conventions of programming language.
+* We learned about the properties of algorithm which are: input, output, definiteness, correctness, finiteness, effectiveness and generality.
+
+## WEEK 8:
+
+* We implemented an algorithm using the MIT app inventor for better understanding of the linear and binary search.
+
+###### Sorting
+
+* We learned about the 2 kinds of sorting.
+* Bubble sort - the largest element "bubbles up".
+* Insertion sort - first element is already sorted.
+
+We also learned about *Greedy Algorithm*, which, is an algorithm that selects the best choice at each step.
+
 Mharela Angela A. Tan
 DISMATH EL

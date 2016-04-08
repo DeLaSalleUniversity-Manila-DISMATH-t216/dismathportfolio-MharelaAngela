@@ -1,5 +1,8 @@
 # dismathportfolio-MharelaAngela
 dismathportfolio-MharelaAngela created by Classroom for GitHub
+
+### Mharela Angela A. Tan DISMATH EL
+
 ## WEEK 1:
 ###### Orientation
 * I was introduced to **Discrete Mathematics**, a challenging yet interesting subject.
@@ -128,6 +131,9 @@ This week, we learned about the following:
 * A one-to-many relation is *not a function*.
 
 ## WEEK 7:
+No classes for this week.
+
+## WEEK 8:
 
 ###### Algorithms
 
@@ -137,7 +143,7 @@ This week, we learned about the following:
 * A *pseudocode* is a high-level description of an algorithmic that uses structural conventions of programming language.
 * We learned about the properties of algorithm which are: input, output, definiteness, correctness, finiteness, effectiveness and generality.
 
-## WEEK 8:
+## WEEK 9:
 
 * We implemented an algorithm using the MIT app inventor for better understanding of the linear and binary search.
 
@@ -149,5 +155,43 @@ This week, we learned about the following:
 
 We also learned about *Greedy Algorithm*, which, is an algorithm that selects the best choice at each step.
 
-Mharela Angela A. Tan
-DISMATH EL
+## WEEK 10:
+###### Growth of Functions
+* It is often described using Big-O Notation
+* Complexity - the number of operations.
+* Big-O - used for upper bound
+* Big-Omega - used for lower bound
+* Big-Theta - used for both upper and lower bound
+* We also discussed about Algorithm Time Complexity.
+
+## WEEK 11:
+* No classes for this week.
+
+## WEEK 12:
+###### Graph Theory
+* A graph is a discrete structure consisting of vertices and edges that connect these vertices.
+* Degree - the number of edges incident with a node; a loop at a vertex contributes twice to the degree of that vertex
+* Path - is a sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph.
+* The Handshaking Theorem states that the number of edges in a certain graph is equal to the product of the number of its vertices multiplied to the degrees, divided by 2.
+* An Euler circuit is a circuit containing every edge of a graph; all nodes have even degrees; returns to initial vertex
+* An Euler path is a path that passes through every edge not more than once; there are 2 nodes who have odd degrees
+* A Hamilton circuit passes to through every vertex exactly once and returns to the vertex where it started.
+* A Hamilton path is a simple path which passes through every vertex exactly once.
+* A pendant is a node with one degree; no longer have a circuit.
+* Two graphs are said to be isomorphic when their vertices have one-to-one correspondences without destroying or having to invent edges.
+* Planar graphs are graphs that can be drawn in the plane without edges having to cross.
+* To determine the number of regions in a certain graph, we may use the Euler's formula: r = e - v + 2
+* According to Kuratowski's Theorem, a graph is nonplanar if and only if it contains a subgraph homeomorphic to K3,3 or K5.
+
+## WEEK 13:
+* We have discussed that a tree is an undirected graph without simple circuits.
+* Graphs which have no simple circuits and are not necessarily connected are called forests.
+* A rooted tree is a tree in which one vertex has been designated as the root and every edge is directed away from the root.
+* Examples of an m-ary tree were shown and explained in class.
+* Graph coloring is assigning a color to every vertex of the graph. No two adjacent vertices have the same color.
+* Recycling of color is allowed and important in graph coloring. Chromatic number is the minimum number of colors that can be used to color a certain graph.
+* Modeling Computation and Finite-state machines were also discussed in class.
+* With these lessons and the stories that our professor have shared to the class, I have learned and understood how machines are slowly taking over human activities nowadays. 
+
+
+
